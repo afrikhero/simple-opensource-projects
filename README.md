@@ -6,20 +6,24 @@ A collection of awesome simple projects where beginner and intermediate develope
 ## Table of Contents
 
 - [HTML](#html)
-- [ReactJS](#react)
+- [ReactJS](#reactjs)
 - [VueJS](#vuejs)
 - [PHP](#php)
+- [Kotlin](#kotlin)
+- [Polymer](#polymer)
+- [Laravel](#laravel)
+- [Firebase](#firebase)
 - [C#](#c&#35)
 
 
 ## HTML
 | Project | Description | Link |
-|------|-------------|------|
+|---------|-------------|------|
 
 
 ## ReactJS
 | Project | Description | Link |
-|------|-------------|------|
+|---------|-------------|------|
 | [Miniflix](https://github.com/unicodeveloper/miniflix) | A smaller version of Netflix powered by Cloudinary | |
 
 ## VueJS
@@ -29,5 +33,30 @@ A collection of awesome simple projects where beginner and intermediate develope
 
 ## PHP
 | Project | Description | Link |
-|------|-------------|------|
+|---------|-------------|------|
 | [PHP Exam](https://github.com/codehakase/php-exam) | A PHP exam with questions from beginner to expert level curated by @codehakase | [https://whispering-savannah-89113.herokuapp.com/](https://whispering-savannah-89113.herokuapp.com/) |
+
+## kotlin
+| Project | Description | Link |
+|---------|-------------|------|
+| [Face Detector](https://github.com/moyheen/face-detector) | This application contains all the code from an article on the FaceDetector API. | [https://hackernoon.com/...](https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-1-face-detection-e7e24a3e472f) |
+
+## Polymer
+| Project | Description | Link |
+|---------|-------------|------|
+| [Meme Maker](https://github.com/ireade/meme-maker) | A Polymer element to make memes | [https://www.webcomponents.org/element/ireade/meme-maker](https://www.webcomponents.org/element/ireade/meme-maker) |
+
+## Laravel
+| Project | Description | Link |
+|---------|-------------|------|
+| [Study Log](https://github.com/codehakase/studyLog) | A Study Log Web Application built to log progress during self created streaks. | |
+
+## Firebase
+| Project | Description | Link |
+|---------|-------------|------|
+| [Simply Notify](https://github.com/ireade/simply-notify) | A simple demo application of Web Push Notifications with Firebase | [https://simply-notify.firebaseapp.com/](https://simply-notify.firebaseapp.com/) |
+
+## C&#35
+| Project | Description | Link |
+|---------|-------------|------|
+| [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
