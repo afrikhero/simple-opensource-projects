@@ -5,7 +5,6 @@ A collection of awesome simple projects where beginner and intermediate develope
 
 ## Table of Contents
 
-- [HTML](#html)
 - [ReactJS](#reactjs)
 - [VueJS](#vuejs)
 - [PHP](#php)
@@ -13,12 +12,7 @@ A collection of awesome simple projects where beginner and intermediate develope
 - [Polymer](#polymer)
 - [Laravel](#laravel)
 - [Firebase](#firebase)
-- [C#](#c&#35)
-
-
-## HTML
-| Project | Description | Link |
-|---------|-------------|------|
+- [C#](#c#)
 
 
 ## ReactJS
@@ -56,7 +50,7 @@ A collection of awesome simple projects where beginner and intermediate develope
 |---------|-------------|------|
 | [Simply Notify](https://github.com/ireade/simply-notify) | A simple demo application of Web Push Notifications with Firebase | [https://simply-notify.firebaseapp.com/](https://simply-notify.firebaseapp.com/) |
 
-## C&#35
+## C#
 | Project | Description | Link |
 |---------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
