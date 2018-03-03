@@ -13,6 +13,7 @@ A collection of awesome simple projects where beginner and intermediate develope
 - [Laravel](#laravel)
 - [Firebase](#firebase)
 - [C#](#c#)
+- [Ruby on Rails](#RoR)
 
 
 ## ReactJS
@@ -54,3 +55,8 @@ A collection of awesome simple projects where beginner and intermediate develope
 | Project | Description | Link |
 |---------|-------------|------|
 | [MySQL Database Library](https://github.com/Ezeji/MySQL-Database-Library) | C# tool for seamless MySQL connection and CRUD operations | [https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009](https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009) |
+
+## RoR
+|Project| Description | Link|
+|-------|-------------|-----|
+|[DeviseAuth](https://github.com/chrisgeek/deviseAuth) | Adding user authentication using devise gem (plugin) | https://medium.com/@chrisgeeq/ruby-on-rails-authentication-using-devise-gem-7bc381d8b77b |
