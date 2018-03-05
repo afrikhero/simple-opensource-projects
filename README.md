@@ -30,6 +30,7 @@ A collection of awesome simple projects where beginner and intermediate develope
 |---------|-------------|------|
 | [PHP Exam](https://github.com/codehakase/php-exam) | A PHP exam with questions from beginner to expert level curated by @codehakase | [https://whispering-savannah-89113.herokuapp.com/](https://whispering-savannah-89113.herokuapp.com/) |
 
+
 ## kotlin
 | Project | Description | Link |
 |---------|-------------|------|
@@ -43,7 +44,8 @@ A collection of awesome simple projects where beginner and intermediate develope
 ## Laravel
 | Project | Description | Link |
 |---------|-------------|------|
-| [Study Log](https://github.com/codehakase/studyLog) | A Study Log Web Application built to log progress during self created streaks. | |
+| [Study Log](https://github.com/codehakase/studyLog) | A Study Log Web Application built to log progress during self created streaks. | | |
+| [PHP-Beamzer](https://github.com/synergixe/php-beamzer) | A PHP exam with questions cross-browser support for real-time feeds and streaming notifications to web applications in an easy way (using Server-Sent Events (SSE) only) | |
 
 ## Firebase
 | Project | Description | Link |
