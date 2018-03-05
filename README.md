@@ -29,6 +29,8 @@ A collection of awesome simple projects where beginner and intermediate develope
 | Project | Description | Link |
 |---------|-------------|------|
 | [PHP Exam](https://github.com/codehakase/php-exam) | A PHP exam with questions from beginner to expert level curated by @codehakase | [https://whispering-savannah-89113.herokuapp.com/](https://whispering-savannah-89113.herokuapp.com/) |
+|---------|-------------|------|
+| [PHP-Beamzer](https://github.com/synergixe/php-beamzer) | A PHP exam with questions cross-browser support for real-time feeds and streaming notifications to web applications in an easy way (using Server-Sent Events (SSE) only) | |
 
 ## kotlin
 | Project | Description | Link |
